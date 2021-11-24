@@ -24,7 +24,6 @@ public class Methods extends JFrame implements MethodsInterface, ActionListener 
     private JRadioButton LoginAndRegister;
     private JRadioButton NurRegister;
 
-
     public Methods() {
         super();
     }
@@ -130,7 +129,6 @@ public class Methods extends JFrame implements MethodsInterface, ActionListener 
             }
         }
     }
-
     // pause durch thread time in sec
     public void Pause(int time) {
         try {

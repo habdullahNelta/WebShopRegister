@@ -20,8 +20,8 @@ public class MainClass {
 
        //manuell test
         //y.Browser();
-       //y.setAnzahlTest(2);
-        //y.Register();
-       // y.Login();
+        //y.setAnzahlTest(3);
+      // y.Register();
+       //y.Login();
     }
 }
